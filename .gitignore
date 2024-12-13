@@ -1,3 +1,6 @@
 .idea/
 .bsp/
-./target/
+.classpath
+.project
+.settings/
+target/
